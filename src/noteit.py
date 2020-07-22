@@ -1,5 +1,5 @@
 
-def miain():
+def main():
     pass
 
 
